@@ -43,3 +43,9 @@
 чтобы создать ссылку, необходимо название обрамить в [], а саму ссылку в (). Например:
 
 [Яндекс переводчик](https://translate.yandex.ru/?source_lang=en&target_lang=ru)
+
+или для простоты обрамить ссылку в '<>', например
+
+<https://translate.yandex.ru/?source_lang=en&target_lang=ru>
+
+но это не совсем красиво)
